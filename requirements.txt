@@ -1,0 +1,12 @@
+streamlit
+openai
+langchain
+faiss-cpu
+sentence-transformers
+pandas
+
+#pip install -r requirements.txt
+#streamlit run app.py (to execute)
+#first run embed_and _store.py
+
+ 
